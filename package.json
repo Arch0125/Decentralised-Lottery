@@ -1,0 +1,22 @@
+{
+  "name": "decentralised-lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arch0125/Decentralised-Lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arch0125/Decentralised-Lottery/issues"
+  },
+  "homepage": "https://github.com/Arch0125/Decentralised-Lottery#readme",
+  "dependencies": {
+    "solc": "^0.8.11"
+  }
+}
